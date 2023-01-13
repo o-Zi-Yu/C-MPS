@@ -11,4 +11,4 @@ Lab04: Analog Conv. and Digital Signal Processing
 
 Lab05: Direct Memory Access
 
-Lab06: Universal Serial Bu
+Lab06: Universal Serial Bus
